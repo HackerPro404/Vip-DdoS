@@ -11,3 +11,4 @@ python DdoS
 ```
 
 ### Screenshot
+<img src="https://github.com/HackerPro404/Vip-DdoS/blob/master/IMG_20200904_231213.jpg">
